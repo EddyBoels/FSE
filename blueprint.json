@@ -40,12 +40,12 @@
             }
         },
         {
-			"step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/wordpress/blueprints/trunk/blueprints/stylish-press/site-content.wxr"
-			}
-		},
+            "step": "importWordPressFiles",
+            "wordPressFilesZip": {
+                "resource": "url",
+                "url": "https://github.com/EddyBoels/FSE/raw/master/imports/wp-content.zip"
+            }
+        },
         {
             "step": "login",
             "username": "admin",
