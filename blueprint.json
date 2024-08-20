@@ -43,7 +43,7 @@
             "step": "importWordPressFiles",
             "wordPressFilesZip": {
                 "resource": "url",
-                "url": "https://github.com/EddyBoels/FSE/raw/master/imports/wp-content.zip"
+                "url": "https://whodunit.academy/wp-content.zip"
             }
         },
         {
