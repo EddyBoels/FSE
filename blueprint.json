@@ -31,8 +31,8 @@
         },
         {
             "step": "installPlugin",
-            "pluginZipFile": {
-                "resource": "wordpress.org/plugins",
+			"pluginZipFile": {
+				"resource": "wordpress.org/plugins",
                 "slug": "formidable"
             },
             "options": {
