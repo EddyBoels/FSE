@@ -1,48 +1,48 @@
 {
-	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
-	"meta": {
-		"title": "Whodunit Academy",
-		"description": "An FSE theme",
-		"author": "Whodunit",
-		"categories": ["FSE", "Site"]
-	},
-	"landingPage": "/wp-admin",
-	"preferredVersions": {
-		"php": "8.3",
-		"wp": "latest"
-	},
-	"features": {
-		"networking": false
-	},
-	"steps": [
-		{
-			"step": "resetData"
-		},
-		{
-			"step": "writeFile",
-			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
-			"data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
-		},
-		{
-			"step": "setSiteOptions",
-			"options": {
-				"blogname": "FSE Academy"
-			}
-		},
-		{
-			"step": "installPlugin",
-			"pluginZipFile": {
-				"resource": "wordpress.org/plugins",
-				"slug": "formidable"
-			},
-			"options": {
-				"activate": true
-			}
-		},
-		{
-			"step": "login",
-			"username": "admin",
-			"password": "password"
-		}
-	]
+    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+    "meta": {
+        "title": "Whodunit Academy",
+        "description": "An FSE theme",
+        "author": "Whodunit",
+        "categories": ["FSE", "Site"]
+    },
+    "landingPage": "/wp-admin",
+    "preferredVersions": {
+        "php": "8.3",
+        "wp": "latest"
+    },
+    "features": {
+        "networking": false
+    },
+    "steps": [
+        {
+            "step": "resetData"
+        },
+        {
+            "step": "writeFile",
+            "path": "/wordpress/wp-content/mu-plugins/rewrite.php",
+            "data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "blogname": "FSE Academy"
+            }
+        },
+        {
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "wordpress.org/plugins",
+                "slug": "formidable"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+        {
+            "step": "login",
+            "username": "admin",
+            "password": "password"
+        }
+    ]
 }
