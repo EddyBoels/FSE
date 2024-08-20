@@ -40,13 +40,6 @@
             }
         },
         {
-			"step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/styles.xml"
-			}
-		},
-        {
             "step": "login",
             "username": "admin",
             "password": "password"
