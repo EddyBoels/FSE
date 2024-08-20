@@ -40,6 +40,13 @@
             }
         },
         {
+			"step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/wordpress/blueprints/trunk/blueprints/stylish-press/woo-products.wxr"
+			}
+		},
+        {
             "step": "login",
             "username": "admin",
             "password": "password"
