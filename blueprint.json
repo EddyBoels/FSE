@@ -43,7 +43,7 @@
             "step": "importWordPressFiles",
             "wordPressFilesZip": {
                 "resource": "url",
-                "url": "https://github.com/EddyBoels/FSE/blob/0289932c53094022d5733cb98568061db9792144/imports/wp-content.zip"
+                "url": "raw.githubusercontent.com/EddyBoels/FSE/0289932c53094022d5733cb98568061db9792144/imports/wp-content.zip"
             }
         },
         {
