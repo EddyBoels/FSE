@@ -53,6 +53,13 @@
 			"step": "setSiteLanguage",
 			"language": "fr_FR"
 		},
+        {
+          "step": "importWxr",
+          "file": {
+            "resource": "url",
+            "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/pages.xml"
+          }
+        },
 		{
 	      "step": "importWxr",
 	      "file": {
