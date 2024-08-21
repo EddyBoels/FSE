@@ -57,28 +57,7 @@
 	      "step": "importWxr",
 	      "file": {
 	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/pages.xml"
-	      }
-	    },
-	    {
-	      "step": "importWxr",
-	      "file": {
-	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/styles.xml"
-	      }
-	    },
-	    {
-	      "step": "importWxr",
-	      "file": {
-	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/medias.xml"
-	      }
-	    },
-	    {
-	      "step": "importWxr",
-	      "file": {
-	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/forms.xml"
+	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/all-contents.xml"
 	      }
 	    },
         {
