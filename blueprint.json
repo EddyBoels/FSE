@@ -43,7 +43,7 @@
             "step": "installPlugin",
 			"pluginZipFile": {
 				"resource": "wordpress.org/plugins",
-                "slug": "create-block_theme"
+                "slug": "create-block-theme"
             },
             "options": {
                 "activate": true
@@ -53,6 +53,20 @@
 			"step": "setSiteLanguage",
 			"language": "fr_FR"
 		},
+		{
+	      "step": "importWxr",
+	      "file": {
+	        "resource": "url",
+	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/pages.xml"
+	      }
+	    },
+	    {
+	      "step": "importWxr",
+	      "file": {
+	        "resource": "url",
+	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/styles.xml"
+	      }
+	    },
         {
             "step": "login",
             "username": "admin",
