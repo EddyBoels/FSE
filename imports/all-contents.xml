@@ -68,7 +68,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17480-150x69.png</url>
+	<url>https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17480-150x69.png</url>
 	<title>Whodunit Academy</title>
 	<link>http://whodunit-academy.local</link>
 	<width>32</width>
@@ -77,16 +77,16 @@
 
 		<item>
 		<title><![CDATA[AI-Driven Hearables]]></title>
-		<link>http://whodunit-academy.local/sample-page/</link>
+		<link>https://fse.whostaging.com/sample-page/</link>
 		<pubDate>Wed, 07 Aug 2024 06:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/?page_id=2</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":[],"patternName":"core/block/46","name":"4 avantages"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"contrast-3","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-contrast-3-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"}}} -->
@@ -100,7 +100,7 @@
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":44,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/brain-line.png" alt="" class="wp-image-44"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/brain-line.png" alt="" class="wp-image-44"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"}}} -->
@@ -114,7 +114,7 @@
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":42,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/airpods_line.png" alt="" class="wp-image-42"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/airpods_line.png" alt="" class="wp-image-42"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"}}} -->
@@ -128,7 +128,7 @@
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":45,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/factory.png" alt="" class="wp-image-45"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/factory.png" alt="" class="wp-image-45"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.25rem"}}} -->
@@ -143,8 +143,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:media-text {"align":"wide","mediaId":63,"mediaLink":"http://whodunit-academy.local/sample-page/image-4/","mediaType":"image","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><figure class="wp-block-media-text__media"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/IMAGE-4.png" alt="" class="wp-image-63 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-group alignfull"><!-- wp:media-text {"align":"wide","mediaId":63,"mediaLink":"https://fse.whostaging.com/sample-page/image-4/","mediaType":"image","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><figure class="wp-block-media-text__media"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/IMAGE-4.png" alt="" class="wp-image-63 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2 class="wp-block-heading">Who we are</h2>
 <!-- /wp:heading -->
 
@@ -160,10 +160,10 @@
 <!-- /wp:media-text -->
 
 <!-- wp:image {"id":65,"sizeSlug":"large","linkDestination":"none","align":"wide"} -->
-<figure class="wp-block-image alignwide size-large"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17503-1024x477.png" alt="" class="wp-image-65"/></figure>
+<figure class="wp-block-image alignwide size-large"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17503-1024x477.png" alt="" class="wp-image-65"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":64,"mediaLink":"http://whodunit-academy.local/sample-page/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2/","mediaType":"image","imageFill":false,"style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}}} -->
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":64,"mediaLink":"https://fse.whostaging.com/sample-page/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2/","mediaType":"image","imageFill":false,"style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}}} -->
 <div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--20)"><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2 class="wp-block-heading">Text and Media</h2>
 <!-- /wp:heading -->
@@ -176,13 +176,13 @@
 <div class="wp-block-buttons"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Know more</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png" alt="" class="wp-image-64 size-full"/></figure></div>
+<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png" alt="" class="wp-image-64 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png","id":67,"hasParallax":true,"dimRatio":0,"customOverlayColor":"#4424c8","minHeight":100,"minHeightUnit":"vh","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-parallax" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#4424c8"></span><div class="wp-block-cover__image-background wp-image-67 has-parallax" style="background-position:50% 50%;background-image:url(http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:image {"id":53,"width":"471px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431.png" alt="" class="wp-image-53" style="width:471px;height:auto"/></figure>
+<!-- wp:cover {"url":"https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png","id":67,"hasParallax":true,"dimRatio":0,"customOverlayColor":"#4424c8","minHeight":100,"minHeightUnit":"vh","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-parallax" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#4424c8"></span><div class="wp-block-cover__image-background wp-image-67 has-parallax" style="background-position:50% 50%;background-image:url(https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:image {"id":53,"width":"471px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431.png" alt="" class="wp-image-53" style="width:471px;height:auto"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:cover -->
 
@@ -198,7 +198,7 @@
 <!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"border":{"radius":"20px","width":"2px","color":"#411fcc"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -218,7 +218,7 @@
 
 <!-- wp:group {"style":{"border":{"radius":"20px","width":"2px","color":"#411fcc"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -238,7 +238,7 @@
 
 <!-- wp:group {"style":{"border":{"radius":"20px","width":"2px","color":"#411fcc"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"gradient":"gradient-2","layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color has-gradient-2-gradient-background has-background" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -283,10 +283,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://whodunit-academy.local/?page_id=3</link>
+		<link>https://fse.whostaging.com/?page_id=3</link>
 		<pubDate>Wed, 07 Aug 2024 06:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/?page_id=3</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2 class="wp-block-heading">Who we are</h2>
@@ -383,10 +383,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Rectangle-4922]]></title>
-		<link>http://whodunit-academy.local/?attachment_id=16</link>
+		<link>https://fse.whostaging.com/?attachment_id=16</link>
 		<pubDate>Mon, 19 Aug 2024 08:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Rectangle-4922.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Rectangle-4922.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -404,7 +404,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Rectangle-4922.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Rectangle-4922.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Rectangle-4922.png]]></wp:meta_value>
@@ -416,13 +416,13 @@
 							</item>
 					<item>
 		<title><![CDATA[Modèle de page]]></title>
-		<link>http://whodunit-academy.local/?page_id=17</link>
+		<link>https://fse.whostaging.com/?page_id=17</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/?page_id=17</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/?page_id=17</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:media-text {"mediaId":16,"mediaLink":"http://whodunit-academy.local/?attachment_id=16","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Rectangle-4922-1024x465.png" alt="" class="wp-image-16 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Contenu…"} -->
+		<content:encoded><![CDATA[<!-- wp:media-text {"mediaId":16,"mediaLink":"https://fse.whostaging.com/?attachment_id=16","mediaType":"image"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Rectangle-4922-1024x465.png" alt="" class="wp-image-16 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Contenu…"} -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->]]></content:encoded>
@@ -448,10 +448,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Group-17480]]></title>
-		<link>http://whodunit-academy.local/group-17480/</link>
+		<link>https://fse.whostaging.com/group-17480/</link>
 		<pubDate>Mon, 19 Aug 2024 13:22:52 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17480.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17480.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -469,7 +469,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17480.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17480.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Group-17480.png]]></wp:meta_value>
@@ -481,10 +481,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Mask-group]]></title>
-		<link>http://whodunit-academy.local/mask-group/</link>
+		<link>https://fse.whostaging.com/mask-group/</link>
 		<pubDate>Mon, 19 Aug 2024 13:35:36 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Mask-group.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Mask-group.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -502,7 +502,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Mask-group.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Mask-group.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Mask-group.png]]></wp:meta_value>
@@ -514,10 +514,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Mask-group-e1722325699235]]></title>
-		<link>http://whodunit-academy.local/mask-group-e1722325699235/</link>
+		<link>https://fse.whostaging.com/mask-group-e1722325699235/</link>
 		<pubDate>Mon, 19 Aug 2024 13:41:31 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Mask-group-e1722325699235.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Mask-group-e1722325699235.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -535,7 +535,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Mask-group-e1722325699235.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Mask-group-e1722325699235.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Mask-group-e1722325699235.png]]></wp:meta_value>
@@ -547,10 +547,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Rectangle-4922]]></title>
-		<link>http://whodunit-academy.local/?attachment_id=31</link>
+		<link>https://fse.whostaging.com/?attachment_id=31</link>
 		<pubDate>Mon, 19 Aug 2024 13:45:29 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Rectangle-4922-1.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Rectangle-4922-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -568,7 +568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Rectangle-4922-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Rectangle-4922-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Rectangle-4922-1.png]]></wp:meta_value>
@@ -580,10 +580,10 @@
 							</item>
 					<item>
 		<title><![CDATA[OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1]]></title>
-		<link>http://whodunit-academy.local/hello-world/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2-1/</link>
+		<link>https://fse.whostaging.com/hello-world/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2-1/</link>
 		<pubDate>Mon, 19 Aug 2024 14:00:14 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -601,7 +601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2-1.png]]></wp:meta_value>
@@ -613,10 +613,10 @@
 							</item>
 					<item>
 		<title><![CDATA[airpods_line]]></title>
-		<link>http://whodunit-academy.local/airpods_line/</link>
+		<link>https://fse.whostaging.com/airpods_line/</link>
 		<pubDate>Wed, 21 Aug 2024 07:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/airpods_line.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/airpods_line.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -634,7 +634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/airpods_line.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/airpods_line.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/airpods_line.png]]></wp:meta_value>
@@ -646,10 +646,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Frame]]></title>
-		<link>http://whodunit-academy.local/frame/</link>
+		<link>https://fse.whostaging.com/frame/</link>
 		<pubDate>Wed, 21 Aug 2024 07:06:32 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -667,7 +667,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Frame.png]]></wp:meta_value>
@@ -679,10 +679,10 @@
 							</item>
 					<item>
 		<title><![CDATA[brain-line]]></title>
-		<link>http://whodunit-academy.local/brain-line/</link>
+		<link>https://fse.whostaging.com/brain-line/</link>
 		<pubDate>Wed, 21 Aug 2024 07:06:37 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/brain-line.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/brain-line.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -700,7 +700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/brain-line.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/brain-line.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/brain-line.png]]></wp:meta_value>
@@ -712,10 +712,10 @@
 							</item>
 					<item>
 		<title><![CDATA[factory]]></title>
-		<link>http://whodunit-academy.local/factory/</link>
+		<link>https://fse.whostaging.com/factory/</link>
 		<pubDate>Wed, 21 Aug 2024 07:06:48 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/factory.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/factory.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -733,7 +733,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/factory.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/factory.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/factory.png]]></wp:meta_value>
@@ -745,10 +745,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Group-17431]]></title>
-		<link>http://whodunit-academy.local/group-17431/</link>
+		<link>https://fse.whostaging.com/group-17431/</link>
 		<pubDate>Wed, 21 Aug 2024 07:17:51 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -766,7 +766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Group-17431.png]]></wp:meta_value>
@@ -778,10 +778,10 @@
 							</item>
 					<item>
 		<title><![CDATA[IMAGE-4]]></title>
-		<link>http://whodunit-academy.local/sample-page/image-4/</link>
+		<link>https://fse.whostaging.com/sample-page/image-4/</link>
 		<pubDate>Wed, 21 Aug 2024 07:28:31 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/IMAGE-4.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/IMAGE-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -799,7 +799,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/IMAGE-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/IMAGE-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/IMAGE-4.png]]></wp:meta_value>
@@ -811,10 +811,10 @@
 							</item>
 					<item>
 		<title><![CDATA[OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2]]></title>
-		<link>http://whodunit-academy.local/sample-page/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2/</link>
+		<link>https://fse.whostaging.com/sample-page/orosoundseptembre2023korerolicensingequipe_2023-09-08-paige-gribb-photography-dsc_5670a-2/</link>
 		<pubDate>Wed, 21 Aug 2024 07:29:47 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/OrosoundSeptembre2023KoreroLicensingEquipe_2023-09-08-paige-gribb-photography-DSC_5670A-2.png]]></wp:meta_value>
@@ -844,10 +844,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Group-17503]]></title>
-		<link>http://whodunit-academy.local/sample-page/group-17503/</link>
+		<link>https://fse.whostaging.com/sample-page/group-17503/</link>
 		<pubDate>Wed, 21 Aug 2024 07:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17503.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17503.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -865,7 +865,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17503.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17503.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Group-17503.png]]></wp:meta_value>
@@ -877,10 +877,10 @@
 							</item>
 					<item>
 		<title><![CDATA[bloc-stackable]]></title>
-		<link>http://whodunit-academy.local/sample-page/bloc-stackable/</link>
+		<link>https://fse.whostaging.com/sample-page/bloc-stackable/</link>
 		<pubDate>Wed, 21 Aug 2024 07:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -898,7 +898,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/bloc-stackable.png]]></wp:meta_value>
@@ -910,10 +910,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Group-17431]]></title>
-		<link>http://whodunit-academy.local/sample-page/group-17431-2/</link>
+		<link>https://fse.whostaging.com/sample-page/group-17431-2/</link>
 		<pubDate>Wed, 21 Aug 2024 07:33:04 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431-1.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -931,7 +931,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Group-17431-1.png]]></wp:meta_value>
@@ -943,10 +943,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Group]]></title>
-		<link>http://whodunit-academy.local/sample-page/group/</link>
+		<link>https://fse.whostaging.com/sample-page/group/</link>
 		<pubDate>Wed, 21 Aug 2024 07:39:20 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -964,7 +964,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Group.png]]></wp:meta_value>
@@ -976,10 +976,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>http://whodunit-academy.local/hello-world/</link>
+		<link>https://fse.whostaging.com/hello-world/</link>
 		<pubDate>Wed, 07 Aug 2024 06:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/?p=1</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
@@ -1023,10 +1023,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://whodunit-academy.local/wp-global-styles-twentytwentyfour/</link>
+		<link>https://fse.whostaging.com/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Wed, 07 Aug 2024 06:57:47 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/wp-global-styles-twentytwentyfour/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"styles":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"1rem"},"elements":{"link":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"var(--wp--preset--font-size--medium)"},"color":{"text":"var(--wp--preset--color--contrast)"},":hover":{"color":{"text":"var(--wp--preset--color--contrast)"}}},"h1":{"typography":{"fontSize":"6.75rem","fontFamily":"var(--wp--preset--font-family--urbanist)"}},"h2":{"typography":{"fontSize":"3.38rem"}},"h3":{"typography":{"fontSize":"3rem"}},"h4":{"typography":{"fontSize":"2.5rem"}},"h5":{"typography":{"fontSize":"2rem"}},"h6":{"typography":{"fontSize":"1.25rem"}},"button":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontStyle":"normal","fontWeight":"900","textTransform":"uppercase"},"color":{"background":"var(--wp--preset--color--contrast-2)"}},"heading":{"color":{"text":"var(--wp--preset--color--base)"}}},"color":{"text":"var(--wp--preset--color--base)","background":"var(--wp--preset--color--accent)"},"blocks":{"core\/button":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"var(--wp--preset--font-size--medium)","textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"border":{"radius":"6px"}},"core\/buttons":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}},"css":":where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}\n\n.wp-block-button a.wp-block-button__link {\n    transition: all .5s;\n}\na.wp-block-button__link:hover {\n    background-color: white!important;\nborder : 2px solid var(--wp--preset--color--contrast-2);\n}","spacing":{"blockGap":"0rem"}},"settings":{"color":{"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(180deg,rgb(36,32,56) 42%,rgb(65,31,204) 100%)","name":"Vertical soft beige to white"},{"slug":"gradient-2","gradient":"linear-gradient(120deg,rgb(36,32,56) 31%,rgb(65,31,204) 100%)","name":"Vertical soft sandstone to white"},{"slug":"gradient-3","gradient":"linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%)","name":"Vertical soft rust to white"},{"slug":"gradient-4","gradient":"linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%)","name":"Vertical soft sage to white"},{"slug":"gradient-5","gradient":"linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%)","name":"Vertical soft mint to white"},{"slug":"gradient-6","gradient":"linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%)","name":"Vertical soft pewter to white"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%)","name":"Vertical hard beige to white"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%)","name":"Vertical hard sandstone to white"},{"slug":"gradient-9","gradient":"linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%)","name":"Vertical hard rust to white"},{"slug":"gradient-10","gradient":"linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%)","name":"Vertical hard sage to white"},{"slug":"gradient-11","gradient":"linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%)","name":"Vertical hard mint to white"},{"slug":"gradient-12","gradient":"linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%)","name":"Vertical hard pewter to white"}]},"palette":{"theme":[{"color":"#242038","name":"Base","slug":"base"},{"color":"#bbb9ff","name":"Base \/ Two","slug":"base-2"},{"color":"#411fcc","name":"Contrast","slug":"contrast"},{"color":"#ffc440","name":"Contrast \/ Two","slug":"contrast-2"},{"color":"#f6f5f9","name":"Contrast \/ Three","slug":"contrast-3"},{"color":"#ffffff","name":"Accent","slug":"accent"},{"color":"#000000","name":"Accent \/ Two","slug":"accent-2"},{"color":"#ffffff80","name":"Accent \/ Three","slug":"accent-3"},{"color":"#b1c5a4","name":"Accent \/ Four","slug":"accent-4"},{"color":"#b5bdbc","name":"Accent \/ Five","slug":"accent-5"}]}},"layout":{"contentSize":"848px"},"typography":{"fontFamilies":{"theme":[],"custom":[{"name":"Urbanist","slug":"urbanist","fontFamily":"Urbanist, sans-serif","fontFace":[{"src":"http:\/\/whodunit-academy.local\/wp-content\/uploads\/fonts\/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fE5OrS8SlKw.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Urbanist"},{"src":"http:\/\/whodunit-academy.local\/wp-content\/uploads\/fonts\/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfE5OrS8SlKw.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"Urbanist"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1048,10 +1048,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://whodunit-academy.local/navigation/</link>
+		<link>https://fse.whostaging.com/navigation/</link>
 		<pubDate>Wed, 07 Aug 2024 06:57:49 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/navigation/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1072,10 +1072,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Urbanist]]></title>
-		<link>http://whodunit-academy.local/urbanist/</link>
+		<link>https://fse.whostaging.com/urbanist/</link>
 		<pubDate>Wed, 07 Aug 2024 07:12:08 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/urbanist/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/urbanist/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"fontFamily":"Urbanist, sans-serif","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/urbanist\/urbanist.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1096,10 +1096,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[urbanist;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://whodunit-academy.local/urbanistnormal400100u0-10ffff/</link>
+		<link>https://fse.whostaging.com/urbanistnormal400100u0-10ffff/</link>
 		<pubDate>Wed, 07 Aug 2024 07:12:08 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/urbanistnormal400100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/urbanistnormal400100u0-10ffff/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"src":"http:\/\/whodunit-academy.local\/wp-content\/uploads\/fonts\/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fE5OrS8SlKw.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"Urbanist","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/urbanist\/urbanist-400-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1124,10 +1124,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[urbanist;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://whodunit-academy.local/urbanistnormal700100u0-10ffff/</link>
+		<link>https://fse.whostaging.com/urbanistnormal700100u0-10ffff/</link>
 		<pubDate>Wed, 07 Aug 2024 07:12:08 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/urbanistnormal700100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/urbanistnormal700100u0-10ffff/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"src":"http:\/\/whodunit-academy.local\/wp-content\/uploads\/fonts\/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfE5OrS8SlKw.woff2","fontWeight":"700","fontStyle":"normal","fontFamily":"Urbanist","preview":"https:\/\/s.w.org\/images\/fonts\/17.7\/previews\/urbanist\/urbanist-700-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1152,10 +1152,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
-		<link>http://whodunit-academy.local/page/</link>
+		<link>https://fse.whostaging.com/page/</link>
 		<pubDate>Mon, 19 Aug 2024 08:57:17 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/page/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
 
@@ -1201,10 +1201,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://whodunit-academy.local/header/</link>
+		<link>https://fse.whostaging.com/header/</link>
 		<pubDate>Mon, 19 Aug 2024 13:43:47 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/header/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"60px","bottom":"0px"},"margin":{"top":"0","bottom":"0"}}},"gradient":"gradient-1","layout":{"type":"constrained","contentSize":""}} -->
 <div class="wp-block-group alignwide has-gradient-1-gradient-background has-background" style="margin-top:0;margin-bottom:0;padding-top:60px;padding-bottom:0px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
@@ -1227,7 +1227,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:post-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}},"typography":{"fontSize":"6.75rem"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"accent"} /-->
 
 <!-- wp:image {"id":26,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Mask-group-e1722325699235.png" alt="" class="wp-image-26"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Mask-group-e1722325699235.png" alt="" class="wp-image-26"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -1255,10 +1255,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Header (article)]]></title>
-		<link>http://whodunit-academy.local/header-copie/</link>
+		<link>https://fse.whostaging.com/header-copie/</link>
 		<pubDate>Mon, 19 Aug 2024 13:44:30 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/header-copie/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/header-copie/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"useFeaturedImage":true,"dimRatio":80,"isUserOverlayColor":true,"minHeightUnit":"px","customGradient":"linear-gradient(172deg,rgb(36,32,56) 31%,rgb(65,31,204) 100%)","style":{"color":{"duotone":"var:preset|duotone|duotone-1"},"spacing":{"padding":{"top":"60px","bottom":"60px"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"aspectRatio":"auto"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover" style="margin-top:0;margin-bottom:0;padding-top:60px;padding-bottom:60px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim has-background-gradient" style="background:linear-gradient(172deg,rgb(36,32,56) 31%,rgb(65,31,204) 100%)"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
@@ -1311,10 +1311,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						</item>
 					<item>
 		<title><![CDATA[Publications seules]]></title>
-		<link>http://whodunit-academy.local/single/</link>
+		<link>https://fse.whostaging.com/single/</link>
 		<pubDate>Mon, 19 Aug 2024 13:59:44 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/single/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/single/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header-copie","theme":"twentytwentyfour","tagName":"header"} /-->
 
@@ -1414,10 +1414,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Header (accueil)]]></title>
-		<link>http://whodunit-academy.local/header-copie-2/</link>
+		<link>https://fse.whostaging.com/header-copie-2/</link>
 		<pubDate>Wed, 21 Aug 2024 06:50:01 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/header-copie-2/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/header-copie-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"40px","bottom":"20px"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-base-background-color has-background" style="padding-top:40px;padding-bottom:20px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
@@ -1456,10 +1456,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						</item>
 					<item>
 		<title><![CDATA[AI-Driven Hearables]]></title>
-		<link>http://whodunit-academy.local/</link>
+		<link>https://fse.whostaging.com/</link>
 		<pubDate>Wed, 21 Aug 2024 09:26:33 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/?page_id=74</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/?page_id=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:block {"ref":85} /-->
 
@@ -1467,7 +1467,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group has-contrast-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"17rem"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1481,7 +1481,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1495,7 +1495,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1509,7 +1509,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1523,9 +1523,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png","id":67,"hasParallax":true,"dimRatio":0,"customOverlayColor":"#4424c8","minHeight":100,"minHeightUnit":"vh","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover has-parallax" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#4424c8"></span><div class="wp-block-cover__image-background wp-image-67 has-parallax" style="background-position:50% 50%;background-image:url(http://whodunit-academy.local/wp-content/uploads/2024/08/bloc-stackable.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:image {"id":68,"width":"500px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431-1.png" alt="" class="wp-image-68" style="width:500px;height:auto"/></figure>
+<!-- wp:cover {"url":"https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png","id":67,"hasParallax":true,"dimRatio":0,"customOverlayColor":"#4424c8","minHeight":100,"minHeightUnit":"vh","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-parallax" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#4424c8"></span><div class="wp-block-cover__image-background wp-image-67 has-parallax" style="background-position:50% 50%;background-image:url(https://fse.whostaging.com/wp-content/uploads/2024/08/bloc-stackable.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:image {"id":68,"width":"500px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431-1.png" alt="" class="wp-image-68" style="width:500px;height:auto"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:cover -->
 
@@ -1541,7 +1541,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"24rem"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -1561,7 +1561,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -1581,7 +1581,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"gradient":"gradient-2","layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color has-gradient-2-gradient-background has-background" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -1618,10 +1618,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Page d’accueil]]></title>
-		<link>http://whodunit-academy.local/front-page/</link>
+		<link>https://fse.whostaging.com/front-page/</link>
 		<pubDate>Wed, 21 Aug 2024 09:33:15 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/front-page/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/front-page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header-copie-2","theme":"twentytwentyfour","tagName":"header"} /-->
 
@@ -1651,13 +1651,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[post-header]]></title>
-		<link>http://whodunit-academy.local/post-header/</link>
+		<link>https://fse.whostaging.com/post-header/</link>
 		<pubDate>Wed, 21 Aug 2024 09:44:22 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/post-header/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/post-header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"gradient":"gradient-1","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-gradient-1-gradient-background has-background"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":68,"mediaLink":"http://whodunit-academy.local/sample-page/group-17431-2/","mediaType":"image"} -->
+<div class="wp-block-group has-gradient-1-gradient-background has-background"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":68,"mediaLink":"https://fse.whostaging.com/sample-page/group-17431-2/","mediaType":"image"} -->
 <div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:post-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}},"typography":{"fontSize":"6.75rem"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"textColor":"accent"} /-->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
@@ -1670,7 +1670,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">contact</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group-17431-1.png" alt="" class="wp-image-68 size-full"/></figure></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group-17431-1.png" alt="" class="wp-image-68 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1691,16 +1691,16 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[4 avantages]]></title>
-		<link>http://whodunit-academy.local/4-avantages/</link>
+		<link>https://fse.whostaging.com/4-avantages/</link>
 		<pubDate>Wed, 21 Aug 2024 09:55:28 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/4-avantages/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/4-avantages/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"4 avantages"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"contrast-3","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"17rem"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1714,7 +1714,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1728,7 +1728,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1742,7 +1742,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Frame.png" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
@@ -1777,10 +1777,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[3 keys]]></title>
-		<link>http://whodunit-academy.local/3-keys/</link>
+		<link>https://fse.whostaging.com/3-keys/</link>
 		<pubDate>Wed, 21 Aug 2024 10:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[eddy]]></dc:creator>
-		<guid isPermaLink="false">http://whodunit-academy.local/3-keys/</guid>
+		<guid isPermaLink="false">https://fse.whostaging.com/3-keys/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
@@ -1794,7 +1794,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"24rem"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -1814,7 +1814,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
@@ -1834,7 +1834,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"2px","color":"#411fcc","radius":"20px"}},"gradient":"gradient-2","layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group has-border-color has-gradient-2-gradient-background has-background" style="border-color:#411fcc;border-width:2px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)"><!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://whodunit-academy.local/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/08/Group.png" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent"}}}},"textColor":"accent","fontSize":"large"} -->
