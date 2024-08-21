@@ -40,15 +40,18 @@
             }
         },
         {
-            "step": "importWordPressFiles",
-            "wordPressFilesZip": {
-                "resource": "url",
-                "url": "raw.githubusercontent.com/EddyBoels/FSE/0289932c53094022d5733cb98568061db9792144/imports/wp-content.zip"
+            "step": "installPlugin",
+			"pluginZipFile": {
+				"resource": "wordpress.org/plugins",
+                "slug": "create-block_theme"
+            },
+            "options": {
+                "activate": true
             }
         },
         {
-			"step": "runPHP",
-			"code": "<?php require_once('/wordpress/wp-load.php'); wp_insert_post(array( 'post_title' => 'Accueil', 'post_content' => '<!-- wp:paragraph --><p>How do you update the meta fields?</p><!-- /wp:paragraph --><!-- wp:list --><ol><!-- wp:list-item --><li>Open the <strong>Settings</strong> sidebar by clicking the window icon next to the blue <strong>Update</strong> button.</li><!-- /wp:list-item --><!-- wp:list-item --><li>Click the <strong>Meta Block Sidebar</strong> menu (below the <strong>Summary</strong> menu).</li><!-- /wp:list-item --><!-- wp:list-item --><li>Type the <strong>Team name</strong> and the <strong>date</strong> the person joined the company in the respective fields.</li><!-- /wp:list-item --><!-- wp:list-item --><li>Click the blue <strong>Update</strong> button.</li><!-- /wp:list-item --></ol><!-- /wp:list -->','post_status' => 'publish' ));"
+			"step": "setSiteLanguage",
+			"language": "fr_FR"
 		},
         {
             "step": "login",
