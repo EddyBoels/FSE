@@ -26,7 +26,10 @@
         {
             "step": "setSiteOptions",
             "options": {
-                "blogname": "FSE Academy"
+                "blogname": "FSE Academy",
+                "show_on_front": "page",
+                "page_on_front": "147",
+                "site_logo": "70"
             }
         },
         {
@@ -57,7 +60,7 @@
 	      "step": "importWxr",
 	      "file": {
 	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/all-contents.xml"
+	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/whodunitacademy.WordPress.2024-08-22.xml"
 	      }
 	    },
         {
