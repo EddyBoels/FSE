@@ -6,7 +6,7 @@
         "author": "Whodunit",
         "categories": ["FSE", "Site"]
     },
-    "landingPage": "/wp-admin",
+    "landingPage": "/wp-admin/?welcome=0",
     "preferredVersions": {
         "php": "8.3",
         "wp": "latest"

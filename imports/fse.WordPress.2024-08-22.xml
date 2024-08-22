@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-22 07:28" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-22 08:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>FSE</title>
 	<link>https://fse.whostaging.com</link>
 	<description></description>
-	<pubDate>Thu, 22 Aug 2024 07:28:45 +0000</pubDate>
+	<pubDate>Thu, 22 Aug 2024 08:19:46 +0000</pubDate>
 	<language>fr-FR</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://fse.whostaging.com</wp:base_site_url>
@@ -1544,9 +1544,9 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 <!-- /wp:image --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"tagName":"main","metadata":{"categories":[],"patternName":"core/block/283","name":"3 keys"},"align":"full","style":{"spacing":{"blockGap":"0","margin":{"top":"0"},"padding":{"right":"0","left":"0"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":"1140px"}} -->
-<main class="wp-block-group alignfull has-base-background-color has-background" style="margin-top:0;padding-right:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"740px"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
+<!-- wp:group {"tagName":"main","metadata":{"categories":[],"patternName":"core/block/283","name":"3 keys"},"align":"wide","style":{"spacing":{"blockGap":"0","margin":{"top":"0"},"padding":{"right":"0","left":"0"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":""}} -->
+<main class="wp-block-group alignwide has-base-background-color has-background" style="margin-top:0;padding-right:0;padding-left:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"740px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
 <h2 class="wp-block-heading has-text-align-center has-accent-2-color has-text-color has-link-color">Surpassing The <br>Tech Standards</h2>
 <!-- /wp:heading -->
 
@@ -1555,8 +1555,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"20rem"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-right:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:group {"style":{"border":{"width":"1px","color":"#411fcc","radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"20rem"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"border":{"width":"1px","color":"#411fcc","radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":91,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/07/Group.png" alt="" class="wp-image-91"/></figure>
 <!-- /wp:image -->
@@ -1825,8 +1825,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-24 09:29:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-24 07:29:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-22 09:28:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-22 07:28:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-22 09:35:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-22 07:35:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[accueil]]></wp:post_name>
@@ -2393,13 +2393,13 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<dc:creator><![CDATA[eddy]]></dc:creator>
 		<guid isPermaLink="false">https://fse.whostaging.com/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"color":{"text":"var:preset|color|base","background":"var:preset|color|accent-2"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base-2)"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},":hover":{"color":{"text":"var(--wp--preset--color--base-2)"}}},"button":{"color":{"text":"var(--wp--preset--color--base)","background":"var(--wp--preset--color--contrast-2)"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontStyle":"normal","fontWeight":"700","textTransform":"uppercase","fontSize":"14px"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"color":{"text":"var:preset|color|base"}},"caption":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"color":{"text":"var:preset|color|contrast-2"}},"h1":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"108px"}},"h2":{"typography":{"fontSize":"54px"}},"h3":{"typography":{"fontSize":"48px"}},"h4":{"typography":{"fontSize":"40px"}}},"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"0em"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"16px"},"blocks":{"core\/button":{"color":{"background":"var(--wp--preset--color--contrast-2)","text":"var(--wp--preset--color--base)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base)"}}},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"border":{"top":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"right":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"bottom":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"left":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"radius":"6px"},"variations":{"outline":{"color":{"background":"var(--wp--preset--color--accent-2)"},"border":{"color":null,"style":null,"width":null,"top":{"color":"#ffc440","style":"solid","width":"1px"},"right":{"color":"#ffc440","style":"solid","width":"1px"},"bottom":{"color":"#ffc440","style":"solid","width":"1px"},"left":{"color":"#ffc440","style":"solid","width":"1px"},"radius":"6px"}}}},"core\/categories":{"typography":{"fontSize":"var(--wp--preset--font-size--large)"}},"core\/post-terms":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"}},"core\/buttons":{"spacing":{"margin":{"top":"var(--wp--preset--spacing--30)","bottom":"var(--wp--preset--spacing--30)"}}}},"css":":where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}\n\n.wp-block-button a.wp-block-button__link {\n    transition: all .5s;\n}\na.wp-block-button__link:hover {\n    background-color: white!important;\nborder : 2px solid var(--wp--preset--color--contrast-2);\n}"},"settings":{"color":{"duotone":{"theme":[{"colors":["#272727","#f9f9f9"],"slug":"duotone-1","name":"Gris fonc\u00e9 et blanc"},{"colors":["#272727","#5F584F"],"slug":"duotone-2","name":"Gris fonc\u00e9 et noix"},{"colors":["#272727","#973C20"],"slug":"duotone-3","name":"Gris fonc\u00e9 et cannelle"},{"colors":["#272727","#4D5B48"],"slug":"duotone-4","name":"Gris fonc\u00e9 et olive"},{"colors":["#272727","#4F5959"],"slug":"duotone-5","name":"Gris fonc\u00e9 et acier"}]},"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(180deg,rgb(36,32,56) 62%,rgb(49,23,153) 100%)","name":"Vertical doux du bois flott\u00e9 au gris fonc\u00e9"},{"slug":"gradient-2","gradient":"linear-gradient(160deg,rgb(36,32,56) 29%,rgb(49,23,153) 100%)","name":"Vertical doux de noix au gris fonc\u00e9"},{"slug":"gradient-3","gradient":"linear-gradient(193deg,rgb(36,32,56) 53%,rgb(49,23,153) 100%)","name":"Vertical doux de cannelle au gris fonc\u00e9"},{"slug":"gradient-4","gradient":"linear-gradient(to bottom, #4D5B48 0%, #272727 100%)","name":"Vertical doux de l\u2019olive au gris fonc\u00e9"},{"slug":"gradient-5","gradient":"linear-gradient(to bottom, #4F5959 0%, #272727 100%)","name":"Vertical doux de l\u2019acier au gris fonc\u00e9"},{"slug":"gradient-6","gradient":"linear-gradient(to bottom, #909090 0%, #272727 100%)","name":"Vertical doux de l\u2019\u00e9tain au gris fonc\u00e9"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #5F584F 50%, #272727 50%)","name":"Vertical net du beige au gris fonc\u00e9"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #6D533C 50%, #272727 50%)","name":"Vertical net de noisette au gris fonc\u00e9"},{"slug":"gradient-9","gradient":"linear-gradient(to bottom, #973C20 50%, #272727 50%)","name":"Vertical net de cannelle au gris fonc\u00e9"},{"slug":"gradient-10","gradient":"linear-gradient(to bottom, #4D5B48 50%, #272727 50%)","name":"Vertical net de l\u2019olive au gris fonc\u00e9"},{"slug":"gradient-11","gradient":"linear-gradient(to bottom, #4F5959 50%, #272727 50%)","name":"Vertical net de l\u2019acier au gris fonc\u00e9"},{"slug":"gradient-12","gradient":"linear-gradient(to bottom, #A4A4A4 50%, #272727 50%)","name":"Vertical net de l\u2019\u00e9tain au gris fonc\u00e9"}]},"palette":{"theme":[{"color":"#242038","name":"Base","slug":"base"},{"color":"#411fcc","name":"Base \/ Deux","slug":"base-2"},{"color":"#bbb9fe","name":"Contraste","slug":"contrast"},{"color":"#ffc440","name":"Contraste \/ Deux","slug":"contrast-2"},{"color":"#f6f5f9","name":"Contraste \/ Trois","slug":"contrast-3"},{"color":"#000000","name":"Accent","slug":"accent"},{"color":"#ffffff","name":"Accent \/ Deux","slug":"accent-2"},{"color":"#cacaca","name":"Accent \/ Trois","slug":"accent-3"},{"color":"#4D5B48","name":"Accent \/ Quatre","slug":"accent-4"},{"color":"#4F5959","name":"Accent \/ Cinq","slug":"accent-5"}]}},"layout":{"contentSize":"848px","wideSize":"1180px"}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"color":{"text":"var(--wp--preset--color--base)","background":"var(--wp--preset--color--accent-2)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base-2)"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},":hover":{"color":{"text":"var(--wp--preset--color--base-2)"}}},"button":{"color":{"text":"var(--wp--preset--color--base)","background":"var(--wp--preset--color--contrast-2)"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontStyle":"normal","fontWeight":"700","textTransform":"uppercase","fontSize":"14px"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"color":{"text":"var(--wp--preset--color--base)"}},"caption":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"color":{"text":"var(--wp--preset--color--contrast-2)"}},"h1":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"108px"}},"h2":{"typography":{"fontSize":"54px"}},"h3":{"typography":{"fontSize":"48px"}},"h4":{"typography":{"fontSize":"40px"}}},"spacing":{"padding":{"top":"0","right":"var:preset|spacing|20","bottom":"0","left":"var:preset|spacing|20"},"blockGap":"0em"},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)","fontSize":"16px"},"blocks":{"core\/button":{"color":{"background":"var(--wp--preset--color--contrast-2)","text":"var(--wp--preset--color--base)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base)"}}},"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"},"border":{"top":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"right":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"bottom":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"left":{"color":"var(--wp--preset--color--contrast-2)","style":"solid","width":"2px"},"radius":"6px"},"variations":{"outline":{"color":{"background":"var(--wp--preset--color--accent-2)"},"border":{"color":null,"style":null,"width":null,"top":{"color":"#ffc440","style":"solid","width":"1px"},"right":{"color":"#ffc440","style":"solid","width":"1px"},"bottom":{"color":"#ffc440","style":"solid","width":"1px"},"left":{"color":"#ffc440","style":"solid","width":"1px"},"radius":"6px"}}}},"core\/categories":{"typography":{"fontSize":"var(--wp--preset--font-size--large)"}},"core\/post-terms":{"typography":{"fontFamily":"var(--wp--preset--font-family--urbanist)"}},"core\/buttons":{"spacing":{"margin":{"top":"var(--wp--preset--spacing--30)","bottom":"var(--wp--preset--spacing--30)"}}}},"css":":where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}\n\n.wp-block-button a.wp-block-button__link {\n    transition: all .5s;\n}\na.wp-block-button__link:hover {\n    background-color: white!important;\nborder : 2px solid var(--wp--preset--color--contrast-2);\n}"},"settings":{"color":{"duotone":{"theme":[{"colors":["#272727","#f9f9f9"],"slug":"duotone-1","name":"Gris fonc\u00e9 et blanc"},{"colors":["#272727","#5F584F"],"slug":"duotone-2","name":"Gris fonc\u00e9 et noix"},{"colors":["#272727","#973C20"],"slug":"duotone-3","name":"Gris fonc\u00e9 et cannelle"},{"colors":["#272727","#4D5B48"],"slug":"duotone-4","name":"Gris fonc\u00e9 et olive"},{"colors":["#272727","#4F5959"],"slug":"duotone-5","name":"Gris fonc\u00e9 et acier"}]},"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(180deg,rgb(36,32,56) 62%,rgb(49,23,153) 100%)","name":"Vertical doux du bois flott\u00e9 au gris fonc\u00e9"},{"slug":"gradient-2","gradient":"linear-gradient(160deg,rgb(36,32,56) 29%,rgb(49,23,153) 100%)","name":"Vertical doux de noix au gris fonc\u00e9"},{"slug":"gradient-3","gradient":"linear-gradient(193deg,rgb(36,32,56) 53%,rgb(49,23,153) 100%)","name":"Vertical doux de cannelle au gris fonc\u00e9"},{"slug":"gradient-4","gradient":"linear-gradient(to bottom, #4D5B48 0%, #272727 100%)","name":"Vertical doux de l\u2019olive au gris fonc\u00e9"},{"slug":"gradient-5","gradient":"linear-gradient(to bottom, #4F5959 0%, #272727 100%)","name":"Vertical doux de l\u2019acier au gris fonc\u00e9"},{"slug":"gradient-6","gradient":"linear-gradient(to bottom, #909090 0%, #272727 100%)","name":"Vertical doux de l\u2019\u00e9tain au gris fonc\u00e9"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #5F584F 50%, #272727 50%)","name":"Vertical net du beige au gris fonc\u00e9"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #6D533C 50%, #272727 50%)","name":"Vertical net de noisette au gris fonc\u00e9"},{"slug":"gradient-9","gradient":"linear-gradient(to bottom, #973C20 50%, #272727 50%)","name":"Vertical net de cannelle au gris fonc\u00e9"},{"slug":"gradient-10","gradient":"linear-gradient(to bottom, #4D5B48 50%, #272727 50%)","name":"Vertical net de l\u2019olive au gris fonc\u00e9"},{"slug":"gradient-11","gradient":"linear-gradient(to bottom, #4F5959 50%, #272727 50%)","name":"Vertical net de l\u2019acier au gris fonc\u00e9"},{"slug":"gradient-12","gradient":"linear-gradient(to bottom, #A4A4A4 50%, #272727 50%)","name":"Vertical net de l\u2019\u00e9tain au gris fonc\u00e9"}]},"palette":{"theme":[{"color":"#242038","name":"Base","slug":"base"},{"color":"#411fcc","name":"Base \/ Deux","slug":"base-2"},{"color":"#bbb9fe","name":"Contraste","slug":"contrast"},{"color":"#ffc440","name":"Contraste \/ Deux","slug":"contrast-2"},{"color":"#f6f5f9","name":"Contraste \/ Trois","slug":"contrast-3"},{"color":"#000000","name":"Accent","slug":"accent"},{"color":"#ffffff","name":"Accent \/ Deux","slug":"accent-2"},{"color":"#cacaca","name":"Accent \/ Trois","slug":"accent-3"},{"color":"#4D5B48","name":"Accent \/ Quatre","slug":"accent-4"},{"color":"#4F5959","name":"Accent \/ Cinq","slug":"accent-5"}]}},"layout":{"contentSize":"848px","wideSize":"1180px"}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-16 14:52:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-16 12:52:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-22 09:07:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-22 07:07:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-22 09:31:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-22 07:31:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
@@ -2634,8 +2634,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<dc:creator><![CDATA[eddy]]></dc:creator>
 		<guid isPermaLink="false">https://fse.whostaging.com/footer/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:site-logo {"width":143,"shouldSyncIcon":true,"style":{"layout":{"selfStretch":"fit","flexSize":null}}} /--></div>
 <!-- /wp:group -->
@@ -2718,8 +2718,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-23 13:48:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-23 11:48:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-23 13:52:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-23 11:52:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-22 10:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-22 08:19:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
@@ -2776,16 +2776,16 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<dc:creator><![CDATA[eddy]]></dc:creator>
 		<guid isPermaLink="false">https://fse.whostaging.com/pre-footer/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading -->
-<h2 class="wp-block-heading">Newsletter</h2>
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
+<h2 class="wp-block-heading has-accent-2-color has-text-color has-link-color">Newsletter</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"60%","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet consectetur. Amet sit magna in urna volutpat. Velit odio turpis nunc turpis. Diam nibh metus ac amet pellentesque donec.</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
+<p class="has-accent-2-color has-text-color has-link-color">Lorem ipsum dolor sit amet consectetur. Amet sit magna in urna volutpat. Velit odio turpis nunc turpis. Diam nibh metus ac amet pellentesque donec.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -2804,8 +2804,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:site-logo {"width":143,"shouldSyncIcon":true,"style":{"layout":{"selfStretch":"fit","flexSize":null}}} /--></div>
 <!-- /wp:group -->
@@ -2888,8 +2888,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-24 09:58:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-24 07:58:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-05 09:56:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-05 07:56:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-22 10:18:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-22 08:18:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pre-footer]]></wp:post_name>
@@ -3149,7 +3149,7 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<guid isPermaLink="false">https://fse.whostaging.com/3-keys/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","align":"wide","style":{"spacing":{"blockGap":"0","margin":{"top":"0"},"padding":{"right":"0","left":"0"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":""}} -->
-<main class="wp-block-group alignwide has-base-background-color has-background" style="margin-top:0;padding-right:0;padding-left:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"740px"}} -->
+<main class="wp-block-group alignwide has-base-background-color has-background" style="margin-top:0;padding-right:0;padding-left:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
 <h2 class="wp-block-heading has-text-align-center has-accent-2-color has-text-color has-link-color">Surpassing The <br>Tech Standards</h2>
 <!-- /wp:heading -->
@@ -3159,8 +3159,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"right":"0","left":"0","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"20rem"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--40);padding-right:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:group {"style":{"border":{"width":"1px","color":"#411fcc","radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","minimumColumnWidth":"20rem"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"border":{"width":"1px","color":"#411fcc","radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group has-border-color" style="border-color:#411fcc;border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":91,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="https://fse.whostaging.com/wp-content/uploads/2024/07/Group.png" alt="" class="wp-image-91"/></figure>
 <!-- /wp:image -->
@@ -3225,8 +3225,8 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://fr.gra
 		<wp:post_id>283</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-21 17:18:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-21 15:18:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-22 09:25:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-22 07:25:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-22 09:35:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-22 07:35:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[3-keys]]></wp:post_name>
