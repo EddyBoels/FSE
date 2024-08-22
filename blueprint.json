@@ -60,7 +60,7 @@
 	      "step": "importWxr",
 	      "file": {
 	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/whodunitacademy.WordPress.2024-08-22.xml"
+	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/fse.WordPress.2024-08-22.xml"
 	      }
 	    },
         {
