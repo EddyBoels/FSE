@@ -67,6 +67,11 @@
             "step": "login",
             "username": "admin",
             "password": "password"
+        },
+        {
+            "step": "writeFile",
+            "path": "/wordpress/wp-content/mu-plugins/bgnightly-notice.php",
+            "data": "<?php add_action('admin_notices', function() {  echo '<div class=\"notice notice-success is-dismissible\"><p>Salut ! C\\'est Eddy. Amuses-toi bien avec ce site :) </p></div>'; });"
         }
     ]
 }
