@@ -34,6 +34,16 @@
         },
         {
             "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "wordpress.org/plugins",
+                "slug": "block-visibility"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+        {
+            "step": "installPlugin",
 			"pluginZipFile": {
 				"resource": "wordpress.org/plugins",
                 "slug": "formidable"
