@@ -81,7 +81,7 @@
     },
     {
       "step": "wp-cli",
-      "command": "wp theme mod set custom_logo 377"
+      "command": "wp theme mod set custom_logo 405"
     },
     {
       "step": "writeFile",
