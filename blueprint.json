@@ -6,7 +6,6 @@
         "author": "Whodunit",
         "categories": ["FSE", "Site"]
     },
-    "landingPage": "/wp-admin/?welcome=0",
     "preferredVersions": {
         "php": "8.3",
         "wp": "latest"
@@ -73,11 +72,6 @@
 	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/fse.WordPress.2024-08-22.xml"
 	      }
 	    },
-        {
-            "step": "login",
-            "username": "admin",
-            "password": "password"
-        },
         {
             "step": "writeFile",
             "path": "/wordpress/wp-content/mu-plugins/bgnightly-notice.php",
