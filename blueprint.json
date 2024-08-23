@@ -1,81 +1,94 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "meta": {
-        "title": "Whodunit Academy",
-        "description": "An FSE theme",
-        "author": "Whodunit",
-        "categories": ["FSE", "Site"]
-    },
-    "preferredVersions": {
-        "php": "8.3",
-        "wp": "latest"
-    },
-    "features": {
-        "networking": true
-    },
-    "steps": [
-        {
-            "step": "resetData"
-        },
-        {
-            "step": "writeFile",
-            "path": "/wordpress/wp-content/mu-plugins/rewrite.php",
-            "data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
-        },
-        {
-            "step": "setSiteOptions",
-            "options": {
-                "blogname": "FSE Academy",
-                "show_on_front": "page",
-                "page_on_front": "147",
-                "site_logo": "70"
-            }
-        },
-        {
-            "step": "installPlugin",
-            "pluginZipFile": {
-                "resource": "wordpress.org/plugins",
-                "slug": "block-visibility"
-            },
-            "options": {
-                "activate": true
-            }
-        },
-        {
-            "step": "installPlugin",
-			"pluginZipFile": {
-				"resource": "wordpress.org/plugins",
-                "slug": "formidable"
-            },
-            "options": {
-                "activate": true
-            }
-        },
-        {
-            "step": "installPlugin",
-			"pluginZipFile": {
-				"resource": "wordpress.org/plugins",
-                "slug": "create-block-theme"
-            },
-            "options": {
-                "activate": true
-            }
-        },
-        {
-			"step": "setSiteLanguage",
-			"language": "fr_FR"
-		},
-		{
-	      "step": "importWxr",
-	      "file": {
-	        "resource": "url",
-	        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/fse.WordPress.2024-08-22.xml"
-	      }
-	    },
-        {
-            "step": "writeFile",
-            "path": "/wordpress/wp-content/mu-plugins/bgnightly-notice.php",
-            "data": "<?php add_action('admin_notices', function() {  echo '<div class=\"notice notice-success is-dismissible\"><p>Salut ! C\\'est Eddy. Amuses-toi bien avec ce site :) </p></div>'; });"
-        }
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Whodunit Academy",
+    "description": "An FSE theme",
+    "author": "Whodunit",
+    "categories": [
+      "FSE",
+      "Site"
     ]
+  },
+  "landingPage": "/wp-admin",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "steps": [
+    {
+      "step": "resetData"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/rewrite.php",
+      "data": "<?php /* Use pretty permalinks */ add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "FSE Academy",
+        "show_on_front": "page",
+        "page_on_front": "147",
+        "site_logo": "70"
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "wordpress.org/plugins",
+        "slug": "block-visibility"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "wordpress.org/plugins",
+        "slug": "formidable"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "wordpress.org/plugins",
+        "slug": "create-block-theme"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "setSiteLanguage",
+      "language": "fr_FR"
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/fse.WordPress.2024-08-22.xml"
+      }
+    },
+    {
+      "step": "wp-cli",
+      "command": "wp media import https://raw.githubusercontent.com/EddyBoels/FSE/master/imports/logo.png --title='Whodunit Academy' --alt='logo'"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/bgnightly-notice.php",
+      "data": "<?php add_action('admin_notices', function() {  echo '<div class=\"notice notice-success is-dismissible\"><p>Salut ! C\\'est Eddy. Amuses-toi bien avec ce site :) </p></div>'; });"
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    }
+  ]
 }
