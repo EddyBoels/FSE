@@ -9,7 +9,7 @@
       "Site"
     ]
   },
-  "landingPage": "/wp-admin",
+  //"landingPage": "/wp-admin",
   "preferredVersions": {
     "php": "8.3",
     "wp": "latest"
