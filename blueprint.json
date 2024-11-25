@@ -38,10 +38,10 @@
       "step": "installTheme",
       "themeData": {
         "resource": "wordpress.org/themes",
-        "slug": "twenty-twenty-four"
+        "slug": "pendant"
       },
-      "options": {
-        "activate": true
+      "progress": {
+        "weight": 2
       }
     },
     {
