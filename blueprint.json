@@ -40,8 +40,8 @@
         "resource": "wordpress.org/themes",
         "slug": "twentytwentyfour"
       },
-      "options": {
-        "activate": true
+      "progress": {
+        "weight": 2
       }
     },
     {
