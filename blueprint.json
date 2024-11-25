@@ -35,6 +35,16 @@
       }
     },
     {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "wordpress.org/themes",
+        "slug": "twenty-twenty-four"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "wordpress.org/plugins",
